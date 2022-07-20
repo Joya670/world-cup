@@ -1,0 +1,240 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Signika', sans-serif;
+    margin: 0;
+    height: 0;
+
+
+}
+
+section {
+    display: flex;
+    margin-bottom: 150%;
+}
+
+.main-section {
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 20px;
+    height: 400px;
+    width: 1200px;
+    left: 80px;
+    top: 25px;
+    position: absolute;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 10%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(238, 32, 169);
+    padding: 10px 38px;
+    border-radius: 5px;
+    color: aliceblue;
+    font-size: 22px;
+    top: 100px;
+}
+
+.earth {
+    font-size: 50px;
+}
+
+.bac-section {
+    background-color: black;
+    border-radius: 10px;
+    height: 300px;
+    width: 200px;
+    left: 80px;
+    top: 500px;
+    position: absolute;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    max-width: 160px;
+
+
+}
+
+.btn {
+    position: relative;
+    background-color: aliceblue;
+    color: black;
+    width: 10rem;
+    margin-bottom: 30px;
+    padding: 1rem 0px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    left: 19px;
+    top: 45px;
+}
+
+.btn-all-group {
+    background-color: violet;
+
+}
+
+.main-div {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    right: 80px;
+
+}
+
+.box-1 {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height: 350px;
+    width: 312px;
+    left: 300px;
+    top: 500px;
+    position: absolute;
+}
+
+.b-1 {
+    padding-left: 5%;
+}
+
+.box-2 {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height: 350px;
+    width: 312px;
+    left: 630px;
+    top: 500px;
+    position: absolute;
+}
+
+.box-3 {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height: 350px;
+    width: 312px;
+    left: 960px;
+    top: 500px;
+    position: absolute;
+
+}
+
+.box-4 {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height: 350px;
+    width: 312px;
+    left: 630px;
+    top: 900px;
+    position: absolute;
+
+}
+
+.box-5 {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height: 350px;
+    width: 312px;
+    left: 300px;
+    top: 900px;
+    position: absolute;
+
+}
+
+.box-6 {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height: 350px;
+    width: 312px;
+    left: 960px;
+    top: 900px;
+    position: absolute;
+
+}
+
+.footer {
+    background-color: black;
+    height: 350px;
+    width: 100%;
+    top: 1400px;
+    position: absolute;
+    color: aliceblue;
+    text-align: center;
+}
+
+.goal {
+    font-size: 40px;
+    position: absolute;
+    top: 50px;
+    left: 650px;
+    text-align: center;
+
+}
+
+.line {
+    position: absolute;
+    border: 1px solid white;
+    opacity: 0.2;
+    height: 0px;
+    width: 765px;
+    left: 300px;
+    top: 150px;
+}
+
+
+
+.tex-1 {
+    position: absolute;
+    top: 200px;
+    left: 430px;
+
+}
+
+.tex-2 {
+    position: absolute;
+    top: 200px;
+    left: 530px;
+}
+
+.tex-3 {
+    position: absolute;
+    top: 200px;
+    left: 660px;
+}
+
+.tex-4 {
+    position: absolute;
+    top: 200px;
+    left: 780px;
+}
+
+.tex-5 {
+    position: absolute;
+    top: 200px;
+    left: 880px;
+}
+
+.facebook {
+    position: absolute;
+    top: 280px;
+    left: 640px;
+}
+
+.twitter {
+    position: absolute;
+    top: 280px;
+}
+
+.instagram {
+    position: absolute;
+    top: 280px;
+    left: 710px;
+}
