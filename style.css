@@ -33,6 +33,11 @@ section {
     padding-left: 10%;
 }
 
+.half-width img {
+    position: absolute;
+    top: 60px;
+}
+
 .link-button {
     text-decoration: none;
     background-color: rgb(238, 32, 169);
@@ -69,6 +74,7 @@ section {
 
 .btn {
     position: relative;
+    text-decoration: none;
     background-color: aliceblue;
     color: black;
     width: 10rem;
