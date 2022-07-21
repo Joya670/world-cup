@@ -52,11 +52,13 @@ section {
     font-size: 50px;
 }
 
+/* nav start */
+
 .bac-section {
     background-color: black;
     border-radius: 10px;
     height: 300px;
-    width: 200px;
+    width: 250px;
     left: 80px;
     top: 500px;
     position: absolute;
@@ -72,6 +74,7 @@ section {
 
 }
 
+
 .btn {
     position: relative;
     text-decoration: none;
@@ -84,7 +87,7 @@ section {
     border-radius: 10px;
     font-size: 16px;
     font-weight: bold;
-    left: 19px;
+    left: 40px;
     top: 45px;
 }
 
@@ -168,6 +171,7 @@ section {
 
 }
 
+/* footer start */
 .footer {
     background-color: black;
     height: 350px;
@@ -246,3 +250,5 @@ section {
     top: 280px;
     left: 710px;
 }
+
+/* footer end */
